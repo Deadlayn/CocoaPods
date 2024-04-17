@@ -26,7 +26,7 @@ Pod::Spec.new do |s|
   s.ios.framework  = 'PassKit'
   s.ios.library = 'z'
 
-  s.ios.dependency 'YandexMobileAds', '5.8.0'
+  s.ios.dependency 'YandexMobileMetrica', '4.5.2'
   s.ios.dependency 'YooMoneyCoreApi', '~> 3.0'
   s.ios.dependency 'YooKassaPaymentsApi', '~> 2.21.2'
   s.ios.dependency 'YooKassaWalletApi', '~> 2.3.1'
